@@ -1,0 +1,17 @@
+{
+    "name": "alexandrepicard/pierre-de-foyer",
+    "require": {
+        "symfony/var-dumper": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Manapyzz",
+            "email": "alexandreb.picard@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
